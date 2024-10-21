@@ -295,7 +295,7 @@ button:hover {
   justify-content: center;
   align-items: center;
   width: 100%;
-  background-color: rgba(128, 128, 128, 0.075);
+  background-color: #f5f6f8;
   #descriptions {
     display: flex;
     flex-direction: column;
@@ -545,7 +545,7 @@ button:hover {
   justify-content: center;
   gap: 40px;
   padding: 80px;
-  background: rgb(235, 229, 229);
+  background: rgb(245 246 248);
 
   #phead {
       h2 {
@@ -1017,7 +1017,7 @@ button:hover {
   align-items: center;
   justify-content: center;
   width: 100%;
-  background: rgba(128, 128, 128, 0.266);
+  background: #f5f6f8;
   gap: 10px;
   padding: 60px;
 
@@ -1824,7 +1824,7 @@ button:hover {
     justify-content: center;
     gap: 40px;
     padding: 80px;
-    background: rgb(235, 229, 229);
+    background-color:#f5f6f8;
   
     #phead {
         h2 {
